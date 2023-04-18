@@ -6,3 +6,5 @@
 ### Tema: "Hello, World!" en C
 
 ### Fecha de Entrega: 14/4/2023
+
+### Compilador seleccionado: MinGW
